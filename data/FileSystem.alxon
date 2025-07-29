@@ -1,0 +1,19 @@
+"Disk"
+{
+	"Admin"
+	{
+		"Home"
+		"Desktop"
+		"Lib"
+		"Path"
+		"Hello"
+	}
+	"Alex"
+	{
+		"Hello"
+		"Home"
+		"Desktop"
+		"Lib"
+		"Path"
+	}
+}
